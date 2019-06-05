@@ -1,0 +1,1 @@
+# lucky-draw-EOS-contract
